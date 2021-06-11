@@ -14,6 +14,7 @@
 ## 1.1. Numpy
 Дата публикации - 4 июня 2021  
 Дедлайн ДЗ - 11 июня 2021  
+Ссылка для сдачи - https://forms.gle/b7eKKY33DHUdRFK38  
 
 
 Запись: https://forms.gle/Bg94R8wDr5MWMjtLA 
